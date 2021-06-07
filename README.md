@@ -1,0 +1,2 @@
+# GANSOD
+_Integration_of_Gradient_Guidance_and_Edge_Enhancement_into_Super-Resolution_for_Small_Object_Detection_in_Aerial_Images
